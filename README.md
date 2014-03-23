@@ -6,5 +6,5 @@ Game of Life multiplayer
 All site visitors share the same game.
 
 ### Demo
-[gameoflife.github.io/](http://gameoflife.github.io/)
+[peterpalmer.github.io/GameOfLifeMultiPlayer/](http://peterpalmer.github.io/GameOfLifeMultiPlayer/)
 
