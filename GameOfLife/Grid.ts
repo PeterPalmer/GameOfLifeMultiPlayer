@@ -39,7 +39,7 @@ module GameOfLife {
             this.ctx.stroke();
 
             if (this.hooverCell != null) {
-                this.ctx.fillStyle = "rgb(240, 240, 250)";
+                this.ctx.fillStyle = "rgb(225, 235, 250)";
                 this.ctx.rect(this.hooverCell.Col * this.cellSize + 1, this.hooverCell.Row * this.cellSize + 1,
                     this.cellSize - 2, this.cellSize - 2);
                 this.ctx.closePath();
